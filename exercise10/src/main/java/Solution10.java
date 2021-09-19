@@ -18,7 +18,9 @@
     //total = subtotal + tax
     //round two hundredths of penny
 
-//string build
+//string build class
+    //accepts parameters from calculations and prints the output
+
 
 import java.util.Scanner;
 
@@ -72,7 +74,7 @@ public class Solution10 {
 
         //pass doubles to print constructor
         Print print = new Print(subtotal,tax,total);
-        
+
     }
 
 }
