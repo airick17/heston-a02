@@ -6,5 +6,9 @@
 package baseline;
 
 public class Solution15 {
-    PasswordVerify passwordVerify = new PasswordVerify();
+    public static void main(String[] args) {
+        PasswordVerify passwordVerify = new PasswordVerify();
+        passwordVerify.prompt();
+        passwordVerify.printResult();
+    }
 }
