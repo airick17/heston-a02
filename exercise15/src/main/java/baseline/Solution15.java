@@ -1,5 +1,5 @@
 /*
- *  UCF COP3330 Fall 2021 Assignment 4 Solutions
+ *  UCF COP3330 Fall 2021 Assignment 2 Solutions
  *  Copyright 2021 Eric Heston
  */
 
