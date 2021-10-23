@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©ùàúÿÿÿÿ
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(öê‡ù
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(Í½êƒ8íó»ÓÊ/
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ÈÁğı8ñó»ÓÊ/
+3
+java:S1700"Rename field "driverAge"(²É–¿üÿÿÿÿ
