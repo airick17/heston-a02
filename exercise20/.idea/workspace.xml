@@ -7,6 +7,9 @@
     <list default="true" id="08d3e615-6134-4b37-a7ff-1080f5a3ba5b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../exercise19/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise19/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../exercise19/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise19/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/baseline/CarTroubleshooter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baseline/CarTroubleshooter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
