@@ -44,6 +44,6 @@ public class NumberCompare {
 
     //prints output to user
     private void printLargestNum() {
-    System.out.printf("The largest number is %d.%n", findLargestNum());
+        System.out.printf("The largest number is %d.%n", findLargestNum());
     }
 }
