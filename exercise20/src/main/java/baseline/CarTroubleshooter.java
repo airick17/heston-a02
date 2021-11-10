@@ -1,6 +1,5 @@
 package baseline;
 
-import java.util.Locale;
 import java.util.Objects;
 import java.util.Scanner;
 
@@ -16,9 +15,10 @@ public class CarTroubleshooter {
         this.userAnswer = userAnswer;
     }
 
+    //scans and sets class variable try catch for input miss
     private void userInputYOrN() {
         Scanner sc = new Scanner(System.in);
-        setUserAnswer(sc.next().trim().toLowerCase(Locale.ROOT));
+        setUserAnswer(sc.next());
     }
 
     private void askNoiseKey() {
